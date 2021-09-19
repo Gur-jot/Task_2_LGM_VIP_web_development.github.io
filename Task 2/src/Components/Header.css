@@ -1,0 +1,16 @@
+.Header {
+    background-color: #E6B2C6;
+    margin-bottom: 20px;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 2px 2px 2px 0;
+    overflow: hidden;
+    margin-left: 70px;   
+  }
+  li {
+    float: left;
+    margin-top: 5px;
+    color: black;  
+  }
